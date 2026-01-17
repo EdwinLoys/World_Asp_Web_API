@@ -164,7 +164,6 @@ Pagination & Filtering
 
 Global Exception Handling
 
-🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
+
+
