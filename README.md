@@ -124,7 +124,7 @@ Swagger UI
 
 Swagger is enabled for easy testing:
 
-https://localhost:{port}/swagger
+https://localhost:44366/swagger
 
 Consume API Using:
 
